@@ -1,3 +1,8 @@
+/*This is a project on traffic light
+By Oluwabiyi Boluwatife Joshua 
+The purpose is to control the flow of traffic
+*/
+
 // Declare the pins
 const int Red_LED = 8;
 const int Yellow_LED = 9;
